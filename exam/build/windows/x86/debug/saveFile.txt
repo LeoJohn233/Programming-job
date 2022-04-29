@@ -1,0 +1,8 @@
+Name
+C
+Defence
+100
+Attack
+100
+Health
+200
